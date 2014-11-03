@@ -1,0 +1,94 @@
+
+peeingAtlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background2
+  rotate: false
+  xy: 1, 543
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+gameover
+  rotate: false
+  xy: 1, 61
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+platform
+  rotate: false
+  xy: 1, 11
+  size: 682, 48
+  orig: 682, 48
+  offset: 0, 0
+  index: -1
+aquarium
+  rotate: false
+  xy: 803, 917
+  size: 122, 106
+  orig: 122, 106
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 803, 809
+  size: 122, 106
+  orig: 122, 106
+  offset: 0, 0
+  index: -1
+boya1
+  rotate: false
+  xy: 927, 868
+  size: 45, 155
+  orig: 45, 155
+  offset: 0, 0
+  index: -1
+boya2
+  rotate: false
+  xy: 803, 652
+  size: 45, 155
+  orig: 45, 155
+  offset: 0, 0
+  index: -1
+fish1
+  rotate: false
+  xy: 974, 998
+  size: 49, 25
+  orig: 49, 25
+  offset: 0, 0
+  index: -1
+fish2
+  rotate: false
+  xy: 974, 971
+  size: 49, 25
+  orig: 49, 25
+  offset: 0, 0
+  index: -1
+fish3
+  rotate: false
+  xy: 974, 944
+  size: 49, 25
+  orig: 49, 25
+  offset: 0, 0
+  index: -1
+drop
+  rotate: false
+  xy: 1, 1
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+
+peeingAtlas2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+menuscreen
+  rotate: false
+  xy: 1, 1
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
